@@ -1,5 +1,5 @@
 {
-  "name": "empty",
+  "name": "st-empty",
   "version": "1.0.0",
   "description": "A empty checking utility",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tstststs/empty.git"
+    "url": "git+https://github.com/seatell/empty.git"
   },
   "author": "tstststs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tstststs/empty/issues"
+    "url": "https://github.com/seatell/empty/issues"
   },
-  "homepage": "https://github.com/tstststs/empty#readme"
+  "homepage": "https://github.com/seatell/empty#readme"
 }
